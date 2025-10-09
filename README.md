@@ -15,7 +15,9 @@ Allows filtering by Day Name, Month Name, Segment, Category, and Region to drill
 📊 Key Metrics
 The dashboard tracks the following Key Performance Indicators (KPIs):
 Daily Sales: 3.65K
+
 Yearly Sales: 28.26K
+
 Total Sales: 113.05K
 
 🖼️ Visualizations Included
