@@ -18,6 +18,7 @@ The dashboard is designed to be highly interactive
 
 Allows filtering by Day Name, Month Name, Segment, Category, and Region to drill down into specific data cuts
 
+
 📊 Key Metrics
 The dashboard tracks the following Key Performance Indicators (KPIs):
 
@@ -26,6 +27,7 @@ Daily Sales: 3.65K
 Yearly Sales: 28.26K
 
 Total Sales: 113.05K
+
 
 🖼️ Visualizations Included
 
@@ -47,6 +49,7 @@ Office Supplies (27.06%)
 
 Day Sales by Day Name (Waterfall/Step Chart)
 
+
 🛠️ Tools and Technologies
 
 Power BI
@@ -54,6 +57,7 @@ Power BI
 DAX Measures
 
 Data Cleaning and Transformation
+
 
 ✅ Project Outcome
 
