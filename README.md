@@ -1,6 +1,6 @@
 ##  Business Sales Dashboard From E-Commerce Data
 
-###  Project Description 
+### 1.Project Description 
 
 To provide a comprehensive analysis of customer purchasing behavior and sales performance to identify key trends, top-performing segments, and areas for strategic focus.
 
@@ -19,7 +19,7 @@ The dashboard is designed to be highly interactive
 Allows filtering by Day Name, Month Name, Segment, Category, and Region to drill down into specific data cuts
 
 
-###  Key Metrics 
+### 2.Key Metrics 
 The dashboard tracks the following Key Performance Indicators (KPIs):
 
 Daily Sales: 3.65K
@@ -29,7 +29,7 @@ Yearly Sales: 28.26K
 Total Sales: 113.05K
 
 
-🖼️ Visualizations Included
+ ### 3.Visualizations Included
 
 The analysis is presented using a variety of charts:
 
@@ -50,7 +50,7 @@ Office Supplies (27.06%)
 Day Sales by Day Name (Waterfall/Step Chart)
 
 
-🛠️ Tools and Technologies
+### 4.Tools and Technologies
 
 Power BI
 
@@ -59,7 +59,7 @@ DAX Measures
 Data Cleaning and Transformation
 
 
-✅ Project Outcome
+### 5.Project Outcome
 
 Identified Top Categories:
 
