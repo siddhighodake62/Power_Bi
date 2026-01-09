@@ -1,6 +1,6 @@
-📦 Business Sales Dashboard From E-Commerce Data
+## ** Business Sales Dashboard From E-Commerce Data**
 
-🎯 Project Description
+### ** Project Description **
 
 To provide a comprehensive analysis of customer purchasing behavior and sales performance to identify key trends, top-performing segments, and areas for strategic focus.
 
@@ -19,7 +19,7 @@ The dashboard is designed to be highly interactive
 Allows filtering by Day Name, Month Name, Segment, Category, and Region to drill down into specific data cuts
 
 
-📊 Key Metrics
+### ** Key Metrics **
 The dashboard tracks the following Key Performance Indicators (KPIs):
 
 Daily Sales: 3.65K
